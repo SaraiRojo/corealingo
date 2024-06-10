@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021637563714",
+    "project_id": "corealingo-proyecto",
+    "storage_bucket": "corealingo-proyecto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021637563714:android:3084fd128d33850e83a4db",
+        "android_client_info": {
+          "package_name": "com.example.corealingo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCibz-6akhj2X6YMPtmYlilkq19hoHum84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
